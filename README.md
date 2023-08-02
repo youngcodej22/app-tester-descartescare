@@ -14,6 +14,14 @@
 
 - 글자 크기 확대, 버튼 색상 변경 등
 
+<br />
+
+## 📌 테스트 기록
+
+✏️ [00\_테스트: 첫 인상](https://github.com/youngcodej22/app-tester-descartescare/blob/main/testingNote/00_intro.md)
+
+✏️ [01\_테스트: 첫 기능 테스트](https://github.com/youngcodej22/app-tester-descartescare/blob/main/testingNote/00_intro.md)
+
 ---
 
 ## 🔗 링크
