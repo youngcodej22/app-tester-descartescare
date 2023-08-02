@@ -20,7 +20,7 @@
 
 ✏️ [00\_테스트: 첫 인상](https://github.com/youngcodej22/app-tester-descartescare/blob/main/testingNote/00_intro.md)
 
-✏️ [01\_테스트: 첫 기능 테스트](https://github.com/youngcodej22/app-tester-descartescare/blob/main/testingNote/00_intro.md)
+✏️ [01\_테스트: 첫 기능 테스트](https://github.com/youngcodej22/app-tester-descartescare/blob/main/testingNote/01_first.md)
 
 ---
 
